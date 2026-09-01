@@ -1,0 +1,12 @@
+/* =========================================
+   BACKGROUND SYSTEM
+   ========================================= */
+
+body {
+    background-color: var(--color-bg);
+}
+
+::selection {
+    background-color: var(--color-text);
+    color: var(--color-bg);
+}

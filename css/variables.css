@@ -1,0 +1,42 @@
+/* =========================================
+   Ahmad Khalel
+   Global Styles
+   ========================================= */
+:root {
+
+    --color-bg: #F7F6F2;
+    --color-surface: #FFFFFF;
+
+    --color-text: #171717;
+    --color-text-muted: #6F6F6A;
+
+    --color-primary: #171717;
+    --color-primary-hover: #333333;
+
+    --color-border: #DEDDD8;
+
+
+    --font-arabic: "Noto Sans Arabic", sans-serif;
+    --font-english: "Inter", sans-serif;
+
+
+    --text-xs: 0.75rem;
+    --text-sm: 0.875rem;
+    --text-base: 1rem;
+
+
+    --container-width: 1200px;
+    --container-padding: 24px;
+
+    --section-spacing: 120px;
+
+
+    --radius-sm: 6px;
+    --radius-md: 12px;
+
+
+    --transition-fast: 0.2s ease;
+    --transition-normal: 0.3s ease;
+}
+
+
