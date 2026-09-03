@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap");
+
+/* =========================================
+   AHMAD KHALEL — BRAND TOKENS
+   Curved / warm / premium visual language
+   ========================================= */
+
+:root {
+    --color-bg: #F4F0E7;
+    --color-bg-soft: #EDE7D9;
+    --color-surface: #FBF9F4;
+    --color-surface-strong: #E6DFD0;
+
+    --color-text: #152326;
+    --color-text-muted: #6D716E;
+    --color-text-soft: #858781;
+
+    --color-primary: #0A3D42;
+    --color-primary-hover: #062F33;
+    --color-accent: #B3A480;
+    --color-accent-deep: #9C8C62;
+
+    --color-border: rgba(21, 35, 38, 0.12);
+    --color-border-strong: rgba(21, 35, 38, 0.22);
+    --color-light-border: rgba(255, 255, 255, 0.16);
+
+    --font-arabic: "Noto Sans Arabic", system-ui, sans-serif;
+    --font-english: "Inter", system-ui, sans-serif;
+
+    --text-xs: 0.72rem;
+    --text-sm: 0.875rem;
+    --text-base: 1rem;
+    --text-lg: 1.125rem;
+
+    --container-width: 1240px;
+    --container-padding: 28px;
+    --section-spacing: clamp(88px, 10vw, 144px);
+
+    --radius-sm: 14px;
+    --radius-md: 24px;
+    --radius-lg: 36px;
+    --radius-xl: 52px;
+    --radius-pill: 999px;
+
+    --shadow-soft: 0 18px 60px rgba(21, 35, 38, 0.08);
+    --shadow-card: 0 10px 35px rgba(21, 35, 38, 0.06);
+
+    --transition-fast: 180ms cubic-bezier(0.22, 1, 0.36, 1);
+    --transition-normal: 360ms cubic-bezier(0.22, 1, 0.36, 1);
+    --transition-slow: 700ms cubic-bezier(0.22, 1, 0.36, 1);
+}
