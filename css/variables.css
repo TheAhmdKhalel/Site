@@ -1,79 +1,97 @@
+/* =========================================
+   AHMAD KHALEL — LOCAL FONTS
+   ========================================= */
+
 @font-face {
-    font-family: "Khalel Sans";
-    src: url("../assets/fonts/sans/NAME-300.woff2") format("woff2");
+    font-family: "Thmanyah Sans";
+    src: url("../assets/fonts/sans/thmanyahsans-Light.otf")
+        format("opentype");
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Khalel Sans";
-    src: url("../assets/fonts/sans/NAME-400.woff2") format("woff2");
+    font-family: "Thmanyah Sans";
+    src: url("../assets/fonts/sans/thmanyahsans-Regular.otf")
+        format("opentype");
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Khalel Sans";
-    src: url("../assets/fonts/sans/NAME-500.woff2") format("woff2");
+    font-family: "Thmanyah Sans";
+    src: url("../assets/fonts/sans/thmanyahsans-Medium.otf")
+        format("opentype");
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Khalel Sans";
-    src: url("../assets/fonts/sans/NAME-700.woff2") format("woff2");
+    font-family: "Thmanyah Sans";
+    src: url("../assets/fonts/sans/thmanyahsans-Bold.otf")
+        format("opentype");
     font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Khalel Sans";
-    src: url("../assets/fonts/sans/NAME-900.woff2") format("woff2");
+    font-family: "Thmanyah Sans";
+    src: url("../assets/fonts/sans/thmanyahsans-Black.otf")
+        format("opentype");
     font-weight: 900;
     font-style: normal;
     font-display: swap;
 }
 
 
+/* =========================================
+   THMANYAH SERIF DISPLAY
+   ========================================= */
+
 @font-face {
-    font-family: "Khalel Serif Display";
-    src: url("../assets/fonts/serifdisplay/NAME-300.woff2") format("woff2");
+    font-family: "Thmanyah Serif Display";
+    src: url("../assets/fonts/serifdisplay/thmanyahserifdisplay-Light.otf")
+        format("opentype");
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Khalel Serif Display";
-    src: url("../assets/fonts/serifdisplay/NAME-400.woff2") format("woff2");
+    font-family: "Thmanyah Serif Display";
+    src: url("../assets/fonts/serifdisplay/thmanyahserifdisplay-Regular.otf")
+        format("opentype");
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Khalel Serif Display";
-    src: url("../assets/fonts/serifdisplay/NAME-500.woff2") format("woff2");
+    font-family: "Thmanyah Serif Display";
+    src: url("../assets/fonts/serifdisplay/thmanyahserifdisplay-Medium.otf")
+        format("opentype");
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Khalel Serif Display";
-    src: url("../assets/fonts/serifdisplay/NAME-700.woff2") format("woff2");
+    font-family: "Thmanyah Serif Display";
+    src: url("../assets/fonts/serifdisplay/thmanyahserifdisplay-Bold.otf")
+        format("opentype");
     font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Khalel Serif Display";
-    src: url("../assets/fonts/serifdisplay/NAME-900.woff2") format("woff2");
+    font-family: "Thmanyah Serif Display";
+    src: url("../assets/fonts/serifdisplay/thmanyahserifdisplay-Black.otf")
+        format("opentype");
     font-weight: 900;
     font-style: normal;
     font-display: swap;
