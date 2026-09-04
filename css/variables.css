@@ -1,4 +1,83 @@
+@font-face {
+    font-family: "Khalel Sans";
+    src: url("../assets/fonts/sans/NAME-300.woff2") format("woff2");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
 
+@font-face {
+    font-family: "Khalel Sans";
+    src: url("../assets/fonts/sans/NAME-400.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Khalel Sans";
+    src: url("../assets/fonts/sans/NAME-500.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Khalel Sans";
+    src: url("../assets/fonts/sans/NAME-700.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Khalel Sans";
+    src: url("../assets/fonts/sans/NAME-900.woff2") format("woff2");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "Khalel Serif Display";
+    src: url("../assets/fonts/serifdisplay/NAME-300.woff2") format("woff2");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Khalel Serif Display";
+    src: url("../assets/fonts/serifdisplay/NAME-400.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Khalel Serif Display";
+    src: url("../assets/fonts/serifdisplay/NAME-500.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Khalel Serif Display";
+    src: url("../assets/fonts/serifdisplay/NAME-700.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Khalel Serif Display";
+    src: url("../assets/fonts/serifdisplay/NAME-900.woff2") format("woff2");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
 
 /* =========================================
    AHMAD KHALEL — BRAND TOKENS
