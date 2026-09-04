@@ -967,6 +967,8 @@
 }
 
 .contact-title {
+    font-family: var(--font-display);
+    font-weight: 700;
     max-width: 730px;
     margin-top: 12px;
     font-size: clamp(3rem, 7vw, 7.2rem);
