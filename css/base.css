@@ -51,6 +51,8 @@ section {
 }
 
 .section-title {
+    font-family: var(--font-display);
+    font-weight: 700;
     max-width: 620px;
     font-size: clamp(2.55rem, 5.2vw, 5.3rem);
     line-height: 1.03;
