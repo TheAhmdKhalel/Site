@@ -17,6 +17,8 @@
 }
 
 .hero-title {
+    font-family: var(--font-display);
+    font-weight: 700;
     max-width: 850px;
     font-size: clamp(3.25rem, 6.7vw, 7rem);
     line-height: 0.98;
