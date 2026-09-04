@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap");
+
 
 /* =========================================
    AHMAD KHALEL — BRAND TOKENS
@@ -24,8 +24,8 @@
     --color-border-strong: rgba(21, 35, 38, 0.22);
     --color-light-border: rgba(255, 255, 255, 0.16);
 
-    --font-arabic: "Noto Sans Arabic", system-ui, sans-serif;
-    --font-english: "Inter", system-ui, sans-serif;
+    --font-body: "Khalel Sans", sans-serif;
+    --font-display: "Khalel Serif Display", serif;
 
     --text-xs: 0.72rem;
     --text-sm: 0.875rem;
